@@ -2,7 +2,7 @@
 
 Exercicio sugerido no curso de desenvolvimento Web - Programadorbr
 
-Neste projeto direcionamos o gerenciamento de estado de mais de um componente utilizando Context API
+Neste projeto utilizamos Context API para gerenciar o estado de mais de um componente num mesmo arquivo.
 
 ## Para iniciar o projeto em React
 
