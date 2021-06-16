@@ -6,7 +6,7 @@ Neste projeto utilizamos Context API para gerenciar o estado de mais de um compo
 
 ## Para iniciar o projeto em React
 
-#### `npx create-react-app Contador`
+### `npx create-react-app Contador`
 
 ## Aplicação roda no browser com o comando
 
